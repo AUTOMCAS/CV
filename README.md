@@ -28,8 +28,9 @@ In contrast to being absorbed by the world behind a screen, I very much love the
 
 ## Know-how (or Skills and Knowledge)
 
-#### Beneficial skills
 
+
+#### Beneficial skills
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 (Using a STAR example Paragraph) Consider the questions below.
@@ -44,7 +45,7 @@ Consider skills relevent to software development. Then consider your best skills
 -What was the result?
 
 
-*(#### This Skill
+#### This Skill
 
 - Experience
 - Achievements
@@ -67,7 +68,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 | **Final project**            | A webapp to do x. | React, Jest, etc. |
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
-)*
+
 
 ## Work Experience
 
