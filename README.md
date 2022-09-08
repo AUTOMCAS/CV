@@ -74,20 +74,34 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+#### Senior Engineering Technician, The UCL Academy, London (2014 - 2022)
+- Working with other staff members to develop a fantastic Engineering curriculum for students age 11-18.
+- Teaching staff and students practical and theoretical Engineering skills.
+- Training and mentoring junior technicians.
+- Maintaining high Health and Safety standards.
+- Running and maintaining equipment and machines.
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+#### Intern, Bamboo Bicycle Club, London (2014 - 2015) 
+- Developing new ideas and products and improving existing designs. 
+- Producing and amending CAD models and drawings. 
+- Producing instruction manuals and designing product packaging.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+#### Projects intern, London Sustainability Exchange, London (2013) 
+- Graphical work such as producing logos, flyers and banners for the organisation. 
+- Conducting research and aiding with idea generation for projects. 
 
-- Any experience relevent to software development
+#### Product design and development, Design and Technology Association, London (2012) 
+- Co-wrote educational materials for primary aged children, supporting development of practical skills in design and technology. 
+- Published in design and technology association’s magazine for Primary school teachers.
+
+#### Conservation volunteering, The Conservation Volunteers, London (2011 - 2013)
+- Included Biodiversity surveying and woodland maintenance with Kingston University and The Conservation Volunteers (formerly BCTV)
+
 
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (September 2022 to end_date)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
@@ -96,14 +110,15 @@ _Your job title_
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Product Design BSc, First Class (2009-2012)
+Kingston University, UK. 
+Projects and modules including Research, Design, Model making, CAD, FEA, CAM, Technical drawing, Electronics, Design for manufacture.
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+#### Art and Design Foundation Diploma, Merit (2007-2008)
+Richmond upon Thames College, UK
 
-#### Any other qualifications
+#### A levels in Biology and Photography. AS levels in Chemistry and Environmental science (2005-2007)
+Richmond upon Thames College, UK
 
-That in some arguable way make you a better software developer or well-rounded person
-
-
+#### 11 GCSEs including double Science, Mathematics and English (2000-2005)
+Teddington school, UK	
