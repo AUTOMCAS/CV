@@ -1,27 +1,11 @@
-## Your Name
+## Chris Aston
+#### A good person
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
-## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
 
-## Work Experience
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience, including roles and responsibilities and results achived in bullet point format.
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
-
-## Skills
+## Know-how (or Skills and Knowledge)
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 (Using a STAR example Paragraph) Consider the questions below.
@@ -51,6 +35,29 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
+
+## Projects
+
+| Name                         | Description       | Tech/tools        |
+| ---------------------------- | ----------------- | ----------------- |
+| **Final project**            | A webapp to do x. | React, Jest, etc. |
+| **Something else worked on** | A webapp to do y. | Ruby              |
+
+
+
+## Work Experience
+
+**Company Name** (start-date to end-date)  
+_Your job title_
+
+- Any experience, including roles and responsibilities and results achived in bullet point format.
+
+**Company Name** (start-date to end-date)  
+_Your job title_
+
+- Any experience relevent to software development
+
+
 ## Education
 
 #### Makers Academy (start_date to end_date)
@@ -72,7 +79,4 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 That in some arguable way make you a better software developer or well-rounded person
 
-## Hobbies
-
-Any cool stuff that makes you a super part of a software development team
 
