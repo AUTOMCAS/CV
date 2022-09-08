@@ -1,7 +1,7 @@
-## Chris Aston Under Development
+## Chris Aston: Under Development
 #### A good person
 
-I enjoyed a career in Engineering Education for 7 years and I have always lived to discover, to learn, to overcome, to build and to solve problems. I discovered the same satisfaction with software development but with the extra advantages that the digital nature enables. Rapid access to information, tools and solutions. An environment to be able to test, experiment, and rapidly improve a project.
+I enjoyed a career in Engineering Education for 7 years (but/and?) I have always lived to discover, to learn, to overcome, to build and to solve problems. I discovered the same satisfaction with software development but with the extra advantages that its digital nature enables. Rapid access to information, tools and solutions. An environment made for iteration, to be able to test, experiment, and rapidly improve a project.
 
 I love to:
 - Learn and discover why and how something works.
@@ -15,17 +15,17 @@ Part about my software development development :'), skills, knowledge etc.
 I am a firm believer that while playing video games may seem like just having fun, they have helped me develop and fortify a range of skills, and not just the ability to click fast. 
 
 The challenges of building a simple spaceship in a game called Space Engineers (some ships can be thousands of components)
-- A spaceship has requirements and follows rules, where will fuel be stored? How many engines will be needed, based on its weight?
-- A spaceship is complex, how will you break the problem down to solve smaller problems without loosing sight of the end goal?
-- Each component must be placed one by one, How will you have plan ahead and constantly consider the bigger picture?
-- Two or more people are working on this ship at one time, how do you communicate your ideas and vision and collaborate so it all comes together? What happens when you disagree?
-- There are always challenges to overcome, some expected and some suprises. How do you solve these with the given tools and components?
+- A spaceship has requirements and follows rules, how many engines will be needed, based on its weight?
+- A spaceship is complex, how will you break the problem down to solve smaller problems without losing sight of the end goal?
+- Each component must be placed one by one, how will you plan ahead and constantly consider the bigger picture?
+- Two or more people are working on this ship, how do you communicate your ideas and vision and collaborate so it all comes together? What happens when you disagree?
+- There are always challenges to overcome, some expected and some surprises, how do you solve these with the given tools and components?
 - How do you know what works? Being able to build parts in isolation, rapidly test and reconfigure leads to innovation and success.
 
-Could emphesise the soft skills?
+Could emphasize the soft skills?
 My first and longest experience of pairing withsomeone to achieve a common goal over hours and days of planning, experimenting, building, testing and improving. 
 
-In contrast to being absorbed by the world behind a screen, I very much love the natural world. I find it fascinating and could (and do) spend hours observing behaviours, noises, movement and appearance of plants and animals. I find it very medititve, great for my wellbeing and satisfies a deep curiosity for discovery.
+In contrast to being absorbed by the world behind a screen, I very much love the natural world. I find it fascinating and could (and do) spend hours observing behaviors, noises, movement and appearance of plants and animals. I find it very meditative, great for my well being and satisfies a deep curiosity for discovery.
 
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
@@ -108,6 +108,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
+- One of the best bootcamps in Europe / 16-week program / 10% acceptance rate
 
 #### Product Design BSc, First Class (2009-2012)
 Kingston University, UK. 
