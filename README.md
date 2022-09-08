@@ -43,8 +43,8 @@ Consider skills relevent to software development. Then consider your best skills
 
 -What was the result?
 
-<sub>
-#### This Skill
+
+*(#### This Skill
 
 - Experience
 - Achievements
@@ -67,7 +67,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 | **Final project**            | A webapp to do x. | React, Jest, etc. |
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
- </sub>	
+)*
 
 ## Work Experience
 
