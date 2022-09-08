@@ -28,7 +28,6 @@ My first and longest experience of pairing withsomeone to achieve a common goal 
 In contrast to being absorbed by the world behind a screen, I very much love the natural world. I find it fascinating and could (and do) spend hours observing behaviours, noises, movement and appearance of plants and animals. I find it very medititve, great for my wellbeing and satisfies a deep curiosity for discovery.
 
 
-
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
 
