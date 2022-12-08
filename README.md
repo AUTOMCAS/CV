@@ -1,5 +1,7 @@
 ## Chris Aston: Under Development
-#### A good person
+
+[A record of my learning journey](https://github.com/AUTOMCAS/learning_journey)
+#### A good person?
 
 I enjoyed a career in Engineering Education for 7 years (but/and) I have always lived to discover, to learn, to overcome, to build and to solve problems. I found the same satisfaction with software development but with the extra advantages that its digital nature enables. Rapid access to information, tools and solutions. An environment made for iteration, to be able to test, experiment, and rapidly improve a project.
 
