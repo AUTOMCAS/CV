@@ -13,11 +13,11 @@ I love to:
 
 Part about my software development development, skills, knowledge etc. :')
 
-#### <a name="learning">Learning Journey</a>
+## <a name="learning">Learning Journey</a>
 
 I recorded my my learning journey through Makers Academy on my way to becoming a Software Developer [here](https://github.com/AUTOMCAS/learning_journey)
 
-#### <a name="hobbies">Hobbies with benefits</a>
+## <a name="hobbies">Hobbies with benefits</a>
 
 I am a firm believer that while playing video games may seem like just having fun, they have helped me develop and fortify a range of skills, and not just the ability to click fast. My first and longest experiences of pairing with someone(to date) have been through video games. Working together to achieve a common goal over hours and days of planning, experimenting, building, testing and improving.
 
