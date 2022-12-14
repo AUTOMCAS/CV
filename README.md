@@ -1,6 +1,6 @@
-## Chris Aston
+# Chris Aston
 
-[Learning Journey](#learning) | [Hobbies with benefits](#hobbies)| [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience)
+[Learning Journey](#learning) | [Hobbies with benefits](#hobbies) | [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience)
 
 I enjoyed a career in Engineering Education for 7 years before learning to become a software developer at [Makers Academy](https://makers.tech/). I have always lived to discover, to learn, to overcome, to build and to solve problems. I found the same satisfaction with software development but with the extra advantages that its digital nature enables. Rapid access to information, tools and solutions. An environment made for iteration, to be able to test, experiment, and rapidly improve a project.
 
@@ -10,8 +10,6 @@ I love to:
 - Learn how to learn
 - Apply skills and knowledge to problem solve.
 - Help others learn
-
-Part about my software development development, skills, knowledge etc. :')
 
 ## <a name="learning">Learning Journey</a>
 
@@ -34,34 +32,31 @@ In contrast to being absorbed by the world behind a screen, I very much love the
 
 ## <a name="skills">Know-how (or Skills and Knowledge)</a>
 
-#### Beneficial skills
+**Dedicated to learning**
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
+- I think learning and self development is one of the most important things in life. I have always enjoyed finding out about things and applying this practically.
+- I enjoy sharing my knowledge and strategies with others.
+- I recorded some of my experiences in my Makers learning journey [here](https://github.com/AUTOMCAS/learning_journey).
 
--STAR
--What was the situation/task? (ST)
+**Plays well with others**
 
--How was the skill used?
+- I have always enjoyed working with curious, intelligent and knowledgeable people to solve problems.
+- Within a team I am equally happy working independently on a specific task or working closely with others to solve larger issues.
+- In my previous role and during group projects I find I often naturally fall into a position of leadership, planning and decision making.
+- As a senior Engineering technician I worked closely with a number of junior technicians, students and staff with a wide range of ages, backgrounds and abilities.
 
--What did you do? (action)
+**Management and organisation**
 
--What was the result?
+- I value good planning, organisation and structure.
+- I have led the design and planning of small and large projects, the largest being the redesign of an entire engineering department of 3 workshops, a computing suite and 3 support rooms.
+- Within a team or when working alone I enjoy creating diagrams and other supporting documents to help both in planning and as a communication aid. - Link?
 
-#### This Skill
+**Doing things properly**
 
-- Experience
-- Achievements
-- Evidence (STAR)
+**Problem solving**
 
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- Agile and engineering iteration
+- breaking things down, seeing how things fit together
 
 ## <a name="projects">Projects</a>
 
