@@ -17,7 +17,7 @@ I recorded my my learning journey through Makers Academy on my way to becoming a
 
 ## <a name="hobbies">Hobbies with benefits</a>
 
-I am a firm believer that while playing video games may seem like just having fun, they have helped me develop and fortify a range of skills, and not just the ability to click fast. My first and longest experiences of pairing with someone(to date) have been through video games. Working together to achieve a common goal over hours and days of planning, experimenting, building, testing and improving.
+I am a firm believer that while playing video games may seem like just having fun, they have helped me develop and fortify a range of skills, and not just the ability to click fast. My first and some of my best experiences of collaboration have been through video games. Working together to achieve a common goal over hours and days of planning, experimenting, building, testing and improving.
 
 The fantastic challenges of building a spaceship in a game called Space Engineers;
 
@@ -28,14 +28,14 @@ The fantastic challenges of building a spaceship in a game called Space Engineer
 - There are always challenges to overcome, some expected and some surprises, how do you solve these with the given tools and components?
 - How do you know what works? Being able to build parts in isolation, rapidly test and reconfigure leads to innovation and success.
 
-In contrast to being absorbed by the world behind a screen, I very much love the natural world. I find it fascinating and could (and do) spend hours observing behaviors, noises, movement and appearance of plants and animals. I find it very meditative, great for my well being and satisfies a deep curiosity for discovery.
+In contrast to being absorbed by the world behind a screen, I very much love the natural world. I find it fascinating and could (and do) spend hours observing behaviors, noises, movement and appearance of plants and animals. I find it very meditative, great for my wellbeing and satisfies a deep curiosity for discovery.
 
 ## <a name="skills">Know-how (or Skills and Knowledge)</a>
 
 **Dedicated to learning**
 
-- I think learning and self development is one of the most important things in life. I have always enjoyed finding out about things and applying this practically.
-- I enjoy sharing my knowledge and strategies with others.
+- I think learning and self development is one of the most important things in life. I have always enjoyed finding out about things and how they work and applying this practically.
+- I enjoy sharing my knowledge and strategies with others. I get great satisfaction from helping others learn new things,
 - I recorded some of my experiences in my Makers learning journey [here](https://github.com/AUTOMCAS/learning_journey).
 
 **Plays well with others**
@@ -44,19 +44,21 @@ In contrast to being absorbed by the world behind a screen, I very much love the
 - Within a team I am equally happy working independently on a specific task or working closely with others to solve larger issues.
 - In my previous role and during group projects I find I often naturally fall into a position of leadership, planning and decision making.
 - As a senior Engineering technician I worked closely with a number of junior technicians, students and staff with a wide range of ages, backgrounds and abilities.
+- During group projects at Makers Academy I thoroughly enjoyed learning about and employing Agile methodologies. I found the iterative cycle of planning, implementation and reflection close to principles employed in engineering design and hugely beneficial to project development and enjoyment.
 
 **Management and organisation**
 
 - I value good planning, organisation and structure.
 - I have led the design and planning of small and large projects, the largest being the redesign of an entire engineering department of 3 workshops, a computing suite and 3 support rooms.
 - Within a team or when working alone I enjoy creating diagrams and other supporting documents to help both in planning and as a communication aid. - Link?
-
-**Doing things properly**
+- The TDD process and Object Orientated Programming fits right into my working ethos of systematic, clean and clear way of working through projects.
 
 **Problem solving**
 
-- Agile and engineering iteration
-- breaking things down, seeing how things fit together
+- Coming from an engineering background I am well practiced with breaking a problem down to its core components and applying a wide and deep understanding to solve each problem in turn.
+- As a software developer my problem solving ability has increased greatly though continuous self reflection and learning new techniques such as TDD.
+
+Satisfaction
 
 ## <a name="projects">Projects</a>
 
