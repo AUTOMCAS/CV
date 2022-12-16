@@ -50,15 +50,13 @@ In contrast to being absorbed by the world behind a screen, I very much love the
 
 - I value good planning, organisation and structure.
 - I have led the design and planning of small and large projects, the largest being the redesign of an entire engineering department of 3 workshops, a computing suite and 3 support rooms.
-- Within a team or when working alone I enjoy creating diagrams and other supporting documents to help both in planning and as a communication aid. - Link?
+- Within a team or when working alone I enjoy creating diagrams and other supporting documents to help both in planning and as a communication aid. Planning diagrams: [Bowling challenge](https://raw.githubusercontent.com/AUTOMCAS/bowling-challenge/main/bowling-js-diagram.png), [Bank tech test](https://raw.githubusercontent.com/AUTOMCAS/bank_tech_test/main/diagram.png)
 - The TDD process and Object Orientated Programming fits right into my working ethos of systematic, clean and clear way of working through projects.
 
-**Problem solving**
+**Problem solving and attention to detail**
 
 - Coming from an engineering background I am well practiced with breaking a problem down to its core components and applying a wide and deep understanding to solve each problem in turn.
 - As a software developer my problem solving ability has increased greatly though continuous self reflection and learning new techniques such as TDD.
-
-Satisfaction
 
 ## <a name="projects">Projects</a>
 
@@ -68,23 +66,28 @@ Satisfaction
 | [Gilded Rose tech test](https://github.com/AUTOMCAS/gilded_rose_tech_test)           | A fantasy shop keeping app. This tech test focuses on writing tests, refactoring existing code and extend it to be clean and adaptable.                                                                                             | JavaScript, Jest                                            |
 | [Bowling Challenge](https://github.com/AUTOMCAS/bowling-challenge)                   | A bowling scorecard which continuously calculates the score for each frame of the deceptively complex game of bowling.                                                                                                              | JavasScript, Jest                                           |
 | [SlothsBnB - An AirBnB clone ](https://github.com/AUTOMCAS/slothsbnb)                | A one week, 4 member group project to develop a full stack web application that allows users to list spaces they have available and to hire spaces for the night.                                                                   | Ruby, Rspec, PostgreSQL, Sinatra, Heroku                    |
-| [GrumbleBook - A Facebook clone](https://github.com/AUTOMCAS/grumbleBook)            | A two week, 6 member group project to develop a full stack social media web application.                                                                                                                                            | React, Node.js, Express, MongoDB, Firebase, Jest, Cypress   |
+| [GrumbleBook - A Facebook clone](https://github.com/AUTOMCAS/grumbleBook)            | A two week, 6 member group project to develop a full stack social media web application. [Video demonstration](https://github.com/AUTOMCAS/grumbleBook/blob/main/planning/presentation/demo.mp4)                                                                                                                                           | React, Node.js, Express, MongoDB, Firebase, Jest, Cypress   |
 | [Votewatch - A full stack phone application](https://github.com/tomallens/votewatch) | A two week, 6 member group project to develop a full stack, phone first application from concept to product. [Presentation](https://youtu.be/jNPUt79UpsA?t=134), [Video demonstration](https://www.youtube.com/watch?v=ygtw67MctDw) | React Native, Node.js, Express, PostgreSQL, Sequelize, Jest |
 
 ## <a name="education">Education</a>
 
 #### Makers Academy (September to December 2022)
 
-Highly selective 12 week intensive coding bootcamp.
+Highly selective 12 week intensive software development bootcamp.
 
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below:
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
-- One of the best bootcamps in Europe / 16-week program / 10% acceptance rate
+- Learning how to learn:
+- Adaptability: Learning New Languages and technologies
+- OOP/SOLID: 
+- TDD: 
+- Debugging:
+- Full stack:
+- Databases: 
+- APIs: 
+- Wellbeing and Productivity:
+- Agile workflow: Project development
+- Collaboration: teamwork and pairing
+
+
 
 #### Product Design BSc, First Class (2009-2012)
 
