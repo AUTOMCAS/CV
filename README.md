@@ -90,7 +90,7 @@ In contrast to being absorbed by the world behind a screen, I very much love the
 
 #### Makers Academy (August to December 2022)
 
-Highly selective 16 week intensive software development bootcamp.
+Highly selective 16 week intensive software development bootcamp.  
 [My Makers Academy experience](#makers)
 
 #### Senior Engineering Technician, The UCL Academy, London (2014 - 2022)
