@@ -1,4 +1,4 @@
-# Chris Aston
+# <center>Chris Aston</center>
 
 [Learning Journey](#learning) | [Makers Academy experience](#makers) | [Projects](#projects) | [Skills](#skills) | [Hobbies with benefits](#hobbies) | [Experience](#experience) | [Education](#education)
 
@@ -15,7 +15,7 @@ I love to:
 
 I recorded my my learning journey through Makers Academy on my way to becoming a Software Developer [here](https://github.com/AUTOMCAS/learning_journey)
 
-Strategies included:
+[Strategies](https://github.com/AUTOMCAS/learning_journey/blob/main/learning_strategies/methods_for_effective_learning.md) included:
 
 - Review and reflection.
 - Celebrating challenges.
@@ -23,7 +23,8 @@ Strategies included:
 - Diagrams.
 - Having good routines.
 
-**Diagram exploring Asynchronicity in JavaScript**
+<center>Diagram exploring Asynchronicity in JavaScript</center>
+
 ![diagram](https://github.com/AUTOMCAS/learning_journey/blob/main/diagrams/javascript/eventloop-js.png?raw=true)
 
 ## <a name="makers">Makers Academy experience</a>
