@@ -15,6 +15,17 @@ I love to:
 
 I recorded my my learning journey through Makers Academy on my way to becoming a Software Developer [here](https://github.com/AUTOMCAS/learning_journey)
 
+Strategies included:
+
+- Review and reflection.
+- Celebrating challenges.
+- Identifying learning objectives and asking questions.
+- Diagrams.
+- Having good routines.
+
+**Diagram exploring Asynchronicity in JavaScript**
+![diagram](https://github.com/AUTOMCAS/learning_journey/blob/main/diagrams/javascript/eventloop-js.png?raw=true)
+
 ## <a name="makers">Makers Academy experience</a>
 
 August to December 2022.  
