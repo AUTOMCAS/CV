@@ -17,21 +17,20 @@ I recorded my my learning journey through Makers Academy on my way to becoming a
 
 ## <a name="makers">Makers Academy experience</a>
 
-#### Makers Academy (August to December 2022)
+August to December 2022.  
+A highly selective 16 week intensive software development bootcamp.
 
-Highly selective 16 week intensive software development bootcamp.
-
-- Learning how to learn:
-- Adaptability: Learning New Languages and technologies
-- OOP/SOLID: 
-- TDD: 
-- Debugging:
-- Full stack:
-- Databases: 
-- APIs: 
-- Wellbeing and Productivity:
-- Agile workflow: Project development
-- Collaboration: teamwork and pairing
+- Learning how to better learn: developed and refined learning strategies using books, repetition and reflection. I recorded in my learning journey [here](https://github.com/AUTOMCAS/learning_journey).
+- Adaptability: Learning new Languages, ways of working and technologies in short periods of time.
+- Clean code: Learning about and applying SOLID and OOP principles to develop projects with clean and easily adaptable code. Example: [Bank App tech test](https://github.com/AUTOMCAS/bank_tech_test)
+- TDD: Building projects using a red, green, refactor test driven processes. Ensuring good code coverage and behaviour first unit and integration tests.
+- Debugging: Using error messages and logs/prints to gain visibility on issues.
+- Full stack: Developing projects with front and back ends using a range of appropriate software. Example MERN stack: [GrumbleBook - A Facebook clone](https://github.com/AUTOMCAS/grumbleBook)
+- Databases: Using PostgreSQL and MongoDB to manage databases using create, read, update and delete operations.
+- APIs: Using APIs like REST APIs to transfer data using functions like GET, POST and PATCH. The [Votewatch](https://github.com/tomallens/votewatch) project uses the external House of Commons API to obtain information on MPs
+- Wellbeing, productivity and empathy: Practiced appropriate break taking and time management, alone and when part of a group or pair. Through my patience and integrity I endeavoured to create a feeling of safety in a learning environment where feedback can be freely given and received.
+- Agile workflow: Following Agile project development processes to build projects as part of a team. Utilising planning sessions, ticketing, standups, sprints, retros and iterative development.
+- Collaboration: Pairing daily over challenging material with people with a range of personalities and ways of working. Working closely with a team to develop projects with multiple features, technologies and short deadlines.
 
 ## <a name="projects">Projects</a>
 
@@ -41,7 +40,7 @@ Highly selective 16 week intensive software development bootcamp.
 | [Gilded Rose tech test](https://github.com/AUTOMCAS/gilded_rose_tech_test)           | A fantasy shop keeping app. This tech test focuses on writing tests, refactoring existing code and extend it to be clean and adaptable.                                                                                             | JavaScript, Jest                                            |
 | [Bowling Challenge](https://github.com/AUTOMCAS/bowling-challenge)                   | A bowling scorecard which continuously calculates the score for each frame of the deceptively complex game of bowling.                                                                                                              | JavasScript, Jest                                           |
 | [SlothsBnB - An AirBnB clone ](https://github.com/AUTOMCAS/slothsbnb)                | A one week, 4 member group project to develop a full stack web application that allows users to list spaces they have available and to hire spaces for the night.                                                                   | Ruby, Rspec, PostgreSQL, Sinatra, Heroku                    |
-| [GrumbleBook - A Facebook clone](https://github.com/AUTOMCAS/grumbleBook)            | A two week, 6 member group project to develop a full stack social media web application. [Video demonstration](https://github.com/AUTOMCAS/grumbleBook/blob/main/planning/presentation/demo.mp4)                                                                                                                                           | React, Node.js, Express, MongoDB, Firebase, Jest, Cypress   |
+| [GrumbleBook - A Facebook clone](https://github.com/AUTOMCAS/grumbleBook)            | A two week, 6 member group project to develop a full stack social media web application. [Video demonstration](https://github.com/AUTOMCAS/grumbleBook/blob/main/planning/presentation/demo.mp4)                                    | React, Node.js, Express, MongoDB, Firebase, Jest, Cypress   |
 | [Votewatch - A full stack phone application](https://github.com/tomallens/votewatch) | A two week, 6 member group project to develop a full stack, phone first application from concept to product. [Presentation](https://youtu.be/jNPUt79UpsA?t=134), [Video demonstration](https://www.youtube.com/watch?v=ygtw67MctDw) | React Native, Node.js, Express, PostgreSQL, Sequelize, Jest |
 
 ## <a name="skills">Skills and Knowledge</a>
@@ -72,7 +71,6 @@ Highly selective 16 week intensive software development bootcamp.
 - Coming from an engineering background I am well practiced with breaking a problem down to its core components and applying a wide and deep understanding to solve each problem in turn.
 - As a software developer my problem solving ability has increased greatly though continuous self reflection and learning new techniques such as TDD.
 
-
 ## <a name="hobbies">Hobbies with benefits</a>
 
 I am a firm believer that while playing video games may seem like just having fun, they have helped me develop and fortify a range of skills, and not just the ability to click fast. My first and some of my best experiences of collaboration have been through video games. Working together to achieve a common goal over hours and days of planning, experimenting, building, testing and improving.
@@ -88,24 +86,12 @@ The fantastic challenges of building a spaceship in a game called Space Engineer
 
 In contrast to being absorbed by the world behind a screen, I very much love the natural world. I find it fascinating and could (and do) spend hours observing behaviors, noises, movement and appearance of plants and animals. I find it very meditative, great for my wellbeing and satisfies a deep curiosity for discovery.
 
-
 ## <a name="experience">Experience</a>
 
 #### Makers Academy (August to December 2022)
 
 Highly selective 16 week intensive software development bootcamp.
-
-- Learning how to learn:
-- Adaptability: Learning New Languages and technologies
-- OOP/SOLID: 
-- TDD: 
-- Debugging:
-- Full stack:
-- Databases: 
-- APIs: 
-- Wellbeing and Productivity:
-- Agile workflow: Project development
-- Collaboration: teamwork and pairing
+[My Makers Academy experience](#makers)
 
 #### Senior Engineering Technician, The UCL Academy, London (2014 - 2022)
 
