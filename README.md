@@ -7,9 +7,9 @@ I enjoyed a career in Engineering Education for 7 years before learning to becom
 I love to:
 
 - Discover why and how something works.
-- Learn how to learn
+- Learn how to more effectively learn.
 - Apply skills and knowledge to problem solve.
-- Help others learn
+- Help others learn.
 
 ## <a name="learning">Learning Journey</a>
 
@@ -90,8 +90,9 @@ In contrast to being absorbed by the world behind a screen, I very much love the
 
 #### Makers Academy (August to December 2022)
 
-Highly selective 16 week intensive software development bootcamp.  
-[My Makers Academy experience](#makers)
+- [My Makers Academy experience key points](#makers).
+- Highly selective 16 week intensive software development bootcamp.
+- Learning how to become a software developer and effective team member through workshops, exercises, projects and group work.
 
 #### Senior Engineering Technician, The UCL Academy, London (2014 - 2022)
 
