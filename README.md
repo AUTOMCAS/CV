@@ -32,12 +32,12 @@ I recorded my my learning journey through Makers Academy on my way to becoming a
 August to December 2022.  
 A highly selective 16 week intensive software development bootcamp.
 
-- Learning how to better learn: developed and refined learning strategies using books, repetition and reflection. I recorded in my learning journey [here](https://github.com/AUTOMCAS/learning_journey).
+- Learning how to better learn: developed and refined learning strategies using books, repetition and reflection. I recorded this in my learning journey [here](https://github.com/AUTOMCAS/learning_journey).
 - Adaptability: Learning new Languages, ways of working and technologies in short periods of time.
 - Clean code: Learning about and applying SOLID and OOP principles to develop projects with clean and easily adaptable code. Example: [Bank App tech test](https://github.com/AUTOMCAS/bank_tech_test)
-- TDD: Building projects using a red, green, refactor test driven processes. Ensuring good code coverage and behaviour first unit and integration tests.
+- TDD: Building projects using a red, green, refactor test driven process. Ensuring good code coverage and behaviour first unit and integration tests.
 - Debugging: Using error messages and logs/prints to gain visibility on issues.
-- Full stack: Developing projects with front and back ends using a range of appropriate software. Example MERN stack: [GrumbleBook - A Facebook clone](https://github.com/AUTOMCAS/grumbleBook)
+- Full stack: Developing projects with front and back ends using a range of appropriate technologies. Example MERN stack: [GrumbleBook - A Facebook clone](https://github.com/AUTOMCAS/grumbleBook)
 - Databases: Using PostgreSQL and MongoDB to manage databases using create, read, update and delete operations.
 - APIs: Using APIs like REST APIs to transfer data using functions like GET, POST and PATCH. The [Votewatch](https://github.com/tomallens/votewatch) project uses the external House of Commons API to obtain information on MPs
 - Wellbeing, productivity and empathy: Practiced appropriate break taking and time management, alone and when part of a group or pair. Through my patience and integrity I endeavoured to create a feeling of safety in a learning environment where feedback can be freely given and received.
@@ -108,10 +108,11 @@ In contrast to being absorbed by the world behind a screen, I very much love the
 
 #### Senior Engineering Technician, The UCL Academy, London (2014 - 2022)
 
-- Working with other staff members to develop a fantastic Engineering curriculum for students age 11-18.
+- Collaborating with staff to develop a fantastic Engineering curriculum for students aged 11-18.
 - Teaching staff and students practical and theoretical Engineering skills.
 - Training and mentoring junior technicians.
-- Maintaining high Health and Safety standards.
+- Maintaining a safe work environment with high wellbeing and health and safety standards.
+- Planning and developing projects and exercises with tight deadlines and specifications.
 - Running and maintaining equipment and machines.
 
 #### Intern, Bamboo Bicycle Club, London (2014 - 2015)
