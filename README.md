@@ -2,7 +2,7 @@
 
 [Learning Journey](#learning) | [Makers Academy experience](#makers) | [Projects](#projects) | [Skills](#skills) | [Hobbies with benefits](#hobbies) | [Experience](#experience) | [Education](#education)
 
-I enjoyed a career in Engineering Education for 7 years before learning to become a software developer at [Makers Academy](https://makers.tech/). I have always lived to discover, to learn, to overcome, to build and to solve problems. I found the same satisfaction with software development but with the extra advantages that its digital nature enables. Rapid access to information, tools and solutions. An environment made for iteration, to be able to test, experiment, and rapidly improve a project.
+My name is Chris and I am a Junior Software Developer based in London. I enjoyed a career in Engineering Education for 7 years before learning to become a software developer at [Makers Academy](https://makers.tech/). I have always lived to discover, to learn, to overcome, to build and to solve problems. I found the same satisfaction with software development but with the extra advantages that its digital nature enables. Rapid access to information, tools and solutions. An environment made for iteration, to be able to test, experiment, and rapidly improve a project.
 
 I love to:
 
