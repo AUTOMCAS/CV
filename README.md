@@ -76,7 +76,7 @@ A highly selective 16 week intensive software development bootcamp.
 - I value good planning, organisation and structure.
 - I have led the design and planning of small and large projects, the largest being the redesign of an entire engineering department of 3 workshops, a computing suite and 3 support rooms.
 - Within a team or when working alone I enjoy creating diagrams and other supporting documents to help both in planning and as a communication aid. Planning diagrams: [Bowling challenge](https://raw.githubusercontent.com/AUTOMCAS/bowling-challenge/main/bowling-js-diagram.png), [Bank tech test](https://raw.githubusercontent.com/AUTOMCAS/bank_tech_test/main/diagram.png)
-- The TDD process and Object Orientated Programming fits right into my working ethos of systematic, clean and clear way of working through projects.
+- The TDD process and Object Oriented Programming fits right into my working ethos of systematic, clean and clear way of working through projects.
 
 **Problem solving and attention to detail**
 
