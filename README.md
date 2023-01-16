@@ -81,7 +81,7 @@ A highly selective 16 week intensive software development bootcamp.
 **Problem solving and attention to detail**
 
 - Coming from an engineering background I am well practiced with breaking a problem down to its core components and applying a wide and deep understanding to solve each problem in turn.
-- As a software developer my problem solving ability has increased greatly though continuous self reflection and learning new techniques such as TDD.
+- As a software developer my problem solving ability has increased greatly through continuous self reflection and learning new techniques such as TDD.
 
 ## <a name="hobbies">Hobbies with benefits</a>
 
