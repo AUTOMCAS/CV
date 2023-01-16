@@ -60,7 +60,7 @@ A highly selective 16 week intensive software development bootcamp.
 **Dedicated to learning**
 
 - I think learning and self development is one of the most important things in life. I have always enjoyed finding out about things and how they work and applying this practically.
-- I enjoy sharing my knowledge and strategies with others. I get great satisfaction from helping others learn new things,
+- I enjoy sharing my knowledge and strategies with others. I get great satisfaction from helping others learn new things.
 - I recorded some of my experiences in my Makers learning journey [here](https://github.com/AUTOMCAS/learning_journey).
 
 **Plays well with others**
