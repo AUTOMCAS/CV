@@ -2,7 +2,7 @@
 
 [Learning Journey](#learning) | [Makers Academy experience](#makers) | [Projects](#projects) | [Skills](#skills) | [Hobbies with benefits](#hobbies) | [Experience](#experience) | [Education](#education)
 
-My name is Chris and I am a Junior Software Developer based in London. I enjoyed a career in Engineering Education for 7 years before learning to become a software developer at [Makers Academy](https://makers.tech/). I have always lived to discover, to learn, to overcome, to build and to solve problems. I found the same satisfaction with software development but with the extra advantages that its digital nature enables. Rapid access to information, tools and solutions. An environment made for iteration, to be able to test, experiment, and rapidly improve a project.
+I am a Junior Software Developer based in London. I enjoyed a career in Engineering Education for 7 years before learning to become a software developer at [Makers Academy](https://makers.tech/). I have always lived to discover, to learn, to overcome, to build and to solve problems. I found the same satisfaction with software development but with the extra advantages that its digital nature enables. Rapid access to information, tools and solutions. An environment made for iteration, to be able to test, experiment, and rapidly improve a project.
 
 I love to:
 
@@ -108,23 +108,24 @@ In contrast to being absorbed by the world behind a screen, I very much love the
 
 #### Senior Engineering Technician, The UCL Academy, London (2014 - 2022)
 
-- Collaborating with staff to develop a fantastic Engineering curriculum for students aged 11-18.
-- Teaching staff and students practical and theoretical Engineering skills.
-- Training and mentoring junior technicians.
-- Maintaining a safe work environment with high wellbeing and health and safety standards.
-- Planning and developing projects and exercises with tight deadlines and specifications.
-- Running and maintaining equipment and machines.
+- Collaborated with staff to develop a fantastic Engineering curriculum for students aged 11-18. Each year saw many graduates secure places in top Russell Group universities.
+- Planned and supervised a £100,000 refurbishment of the Engineering department, liaising with senior staff, external specialists and contractors.
+- Mentored and trained junior technicians to uphold the department's high standards.
+- Taught staff and students practical and theoretical Engineering skills.
+- Maintained a safe work environment with high wellbeing and health and safety standards.
+- Planned and developed projects and exercises with tight deadlines and specifications.
+
 
 #### Intern, Bamboo Bicycle Club, London (2014 - 2015)
 
-- Developing new ideas and products and improving existing designs.
-- Producing and amending CAD models and drawings.
-- Producing instruction manuals and designing product packaging.
+- Developed new ideas and products and improving existing designs.
+- Produced and amended CAD models and drawings.
+- Produced instruction manuals and designing product packaging.
 
 #### Projects intern, London Sustainability Exchange, London (2013)
 
 - Graphical work such as producing logos, flyers and banners for the organisation.
-- Conducting research and aiding with idea generation for projects.
+- Conducted research and aiding with idea generation for projects.
 
 #### Product design and development, Design and Technology Association, London (2012)
 
