@@ -40,7 +40,7 @@ A highly selective 16 week intensive software development bootcamp.
 - Full stack: Developing projects with front and back ends using a range of appropriate technologies. Example MERN stack: [GrumbleBook - A Facebook clone](https://github.com/AUTOMCAS/grumbleBook)
 - Databases: Using PostgreSQL and MongoDB to manage databases using create, read, update and delete operations.
 - APIs: Using APIs like REST APIs to transfer data using functions like GET, POST and PATCH. The [Votewatch](https://github.com/tomallens/votewatch) project uses the external House of Commons API to obtain information on MPs
-- Wellbeing, productivity and empathy: Practiced appropriate break taking and time management, alone and when part of a group or pair. Through my patience and integrity I endeavoured to create a feeling of safety in a learning environment where feedback can be freely given and received.
+- Wellbeing, productivity and empathy: Practised appropriate break taking and time management, alone and when part of a group or pair. Through my patience and integrity I endeavoured to create a feeling of safety in a learning environment where feedback can be freely given and received.
 - Agile workflow: Following Agile project development processes to build projects as part of a team. Utilising planning sessions, ticketing, standups, sprints, retros and iterative development.
 - Collaboration: Pairing daily over challenging material with people with a range of personalities and ways of working. Working closely with a team to develop projects with multiple features, technologies and short deadlines.
 
@@ -80,7 +80,7 @@ A highly selective 16 week intensive software development bootcamp.
 
 **Problem solving and attention to detail**
 
-- Coming from an engineering background I am well practiced with breaking a problem down to its core components and applying a wide and deep understanding to solve each problem in turn.
+- Coming from an engineering background I am well practised with breaking a problem down to its core components and applying a wide and deep understanding to solve each problem in turn.
 - As a software developer my problem solving ability has increased greatly through continuous self reflection and learning new techniques such as TDD.
 
 ## <a name="hobbies">Hobbies with benefits</a>
@@ -96,7 +96,7 @@ The fantastic challenges of building a spaceship in a game called Space Engineer
 - There are always challenges to overcome, some expected and some surprises, how do you solve these with the given tools and components?
 - How do you know what works? Being able to build parts in isolation, rapidly test and reconfigure leads to innovation and success.
 
-In contrast to being absorbed by the world behind a screen, I very much love the natural world. I find it fascinating and could (and do) spend hours observing behaviors, noises, movement and appearance of plants and animals. I find it very meditative, great for my wellbeing and satisfies a deep curiosity for discovery.
+In contrast to being absorbed by the world behind a screen, I very much love the natural world. I find it fascinating and could (and do) spend hours observing behaviours, noises, movement and appearance of plants and animals. I find it very meditative, great for my wellbeing and satisfies a deep curiosity for discovery.
 
 ## <a name="experience">Experience</a>
 
