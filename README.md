@@ -46,7 +46,7 @@ A highly selective 16 week intensive software development bootcamp.
 
 ## <a name="projects">Projects</a>
 
-[Project portfolio](https://github.com/AUTOMCAS/portfolio)
+**[Project portfolio](https://github.com/AUTOMCAS/portfolio)**
 
 | Name                                                                                 | Description                                                                                                                                                                                                                         | Technologies                                                |
 | ------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
