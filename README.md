@@ -46,6 +46,8 @@ A highly selective 16 week intensive software development bootcamp.
 
 ## <a name="projects">Projects</a>
 
+[Project portfolio](https://github.com/AUTOMCAS/portfolio)
+
 | Name                                                                                 | Description                                                                                                                                                                                                                         | Technologies                                                |
 | ------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
 | [Bank App tech test](https://github.com/AUTOMCAS/bank_tech_test)                     | A small app allowing a user to deposit, withdraw and print a statement using the command line. This was a tech test to demonstrate clean code and TDD                                                                               | JavaScript, Jest                                            |
