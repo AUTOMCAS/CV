@@ -46,16 +46,21 @@ A highly selective 16 week intensive software development bootcamp.
 
 ## <a name="projects">Projects</a>
 
-**[Project portfolio](https://github.com/AUTOMCAS/portfolio)**
+### Project portfolio
 
-| Name                                                                                 | Description                                                                                                                                                                                                                         | Technologies                                                |
-| ------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
-| [Votewatch - A full stack phone application](https://github.com/tomallens/votewatch) | A two week, 6 member group project to develop a full stack, phone first application from concept to product. [Presentation](https://youtu.be/jNPUt79UpsA?t=134), [Video demonstration](https://www.youtube.com/watch?v=ygtw67MctDw) | React Native, Node.js, Express, PostgreSQL, Sequelize, Jest |
-| [GrumbleBook - A Facebook clone](https://github.com/AUTOMCAS/grumbleBook)            | A two week, 6 member group project to develop a full stack social media web application. [Video demonstration](https://github.com/AUTOMCAS/grumbleBook/blob/main/planning/presentation/demo.mp4)                                    | React, Node.js, Express, MongoDB, Firebase, Jest, Cypress   |
-| [SlothsBnB - An AirBnB clone ](https://github.com/AUTOMCAS/slothsbnb)                | A one week, 4 member group project to develop a full stack web application that allows users to list spaces they have available and to hire spaces for the night.                                                                   | Ruby, Rspec, PostgreSQL, Sinatra, Heroku                    |
-| [Bank App tech test](https://github.com/AUTOMCAS/bank_tech_test)                     | A small app allowing a user to deposit, withdraw and print a statement using the command line. This was a tech test to demonstrate clean code and TDD                                                                               | JavaScript, Jest                                            |
-| [Gilded Rose tech test](https://github.com/AUTOMCAS/gilded_rose_tech_test)           | A fantasy shop keeping app. This tech test focuses on writing tests, refactoring existing code and extend it to be clean and adaptable.                                                                                             | JavaScript, Jest                                            |
-| [Bowling Challenge](https://github.com/AUTOMCAS/bowling-challenge)                   | A bowling scorecard which continuously calculates the score for each frame of the deceptively complex game of bowling.                                                                                                              | JavaScript, Jest                                           |
+**[My Project portfolio](https://github.com/AUTOMCAS/portfolio)**
+
+### Project overview
+
+| Name                                                                                                       | Description                                                                                                                                                                                                                         | Technologies                                                          |
+| ---------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| [Sheddington - A membership management system](https://github.com/AUTOMCAS/sheddington-membership-manager) | Full-stack application to manage memberships for a local charity.                                                                                                                                                                   | Typescript, React, CSS, Node.js, Sequelize, PostgreSQL, Jest, Cypress |
+| [Votewatch - A full stack phone application](https://github.com/tomallens/votewatch)                       | A two week, 6 member group project to develop a full stack, phone first application from concept to product. [Presentation](https://youtu.be/jNPUt79UpsA?t=134), [Video demonstration](https://www.youtube.com/watch?v=ygtw67MctDw) | React Native, Node.js, Express, PostgreSQL, Sequelize, Jest           |
+| [GrumbleBook - A Facebook clone](https://github.com/AUTOMCAS/grumbleBook)                                  | A two week, 6 member group project to develop a full stack social media web application. [Video demonstration](https://github.com/AUTOMCAS/grumbleBook/blob/main/planning/presentation/demo.mp4)                                    | React, Node.js, Express, MongoDB, Firebase, Jest, Cypress             |
+| [SlothsBnB - An AirBnB clone ](https://github.com/AUTOMCAS/slothsbnb)                                      | A one week, 4 member group project to develop a full stack web application that allows users to list spaces they have available and to hire spaces for the night.                                                                   | Ruby, Rspec, PostgreSQL, Sinatra, Heroku                              |
+| [Bank App tech test](https://github.com/AUTOMCAS/bank_tech_test)                                           | A small app allowing a user to deposit, withdraw and print a statement using the command line. This was a tech test to demonstrate clean code and TDD                                                                               | JavaScript, Jest                                                      |
+| [Gilded Rose tech test](https://github.com/AUTOMCAS/gilded_rose_tech_test)                                 | A fantasy shop keeping app. This tech test focuses on writing tests, refactoring existing code and extend it to be clean and adaptable.                                                                                             | JavaScript, Jest                                                      |
+| [Bowling Challenge](https://github.com/AUTOMCAS/bowling-challenge)                                         | A bowling scorecard which continuously calculates the score for each frame of the deceptively complex game of bowling.                                                                                                              | JavaScript, Jest                                                      |
 
 ## <a name="skills">Skills and Knowledge</a>
 
@@ -116,7 +121,6 @@ In contrast to being absorbed by the world behind a screen, I very much love the
 - Taught staff and students practical and theoretical Engineering skills.
 - Maintained a safe work environment with high wellbeing and health and safety standards.
 - Planned and developed projects and exercises with tight deadlines and specifications.
-
 
 #### Intern, Bamboo Bicycle Club, London (2014 - 2015)
 
