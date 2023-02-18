@@ -1,6 +1,6 @@
 # <center>Chris Aston</center>
 
-[Learning Journey](#learning) | [Makers Academy experience](#makers) | [Projects](#projects) | [Skills](#skills) | [Hobbies with benefits](#hobbies) | [Experience](#experience) | [Education](#education)
+[Projects](#projects) | [Learning Journey](#learning) | [Makers Academy experience](#makers) | [Skills](#skills) | [Hobbies with benefits](#hobbies) | [Experience](#experience) | [Education](#education)
 
 I am a Junior Software Developer based in London. I enjoyed a career in Engineering Education for 7 years before learning to become a software developer at [Makers Academy](https://makers.tech/). I have always lived to discover, to learn, to overcome, to build and to solve problems. I found the same satisfaction with software development but with the extra advantages that its digital nature enables. Rapid access to information, tools and solutions. An environment made for iteration, to be able to test, experiment, and rapidly improve a project.
 
@@ -10,6 +10,25 @@ I love to:
 - Learn how to more effectively learn.
 - Apply skills and knowledge to problem solve.
 - Help others learn.
+- Code with care.
+
+## <a name="projects">Projects</a>
+
+### [My Project portfolio](https://github.com/AUTOMCAS/portfolio)
+
+Further detail including key challenges, screenshots and videos.
+
+### Project overview
+
+| Name                                                                                                       | Description                                                                                                                                                                                                                         | Technologies                                                          |
+| ---------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| [Sheddington - A membership management system](https://github.com/AUTOMCAS/sheddington-membership-manager) | Full-stack application to manage memberships for a local charity.                                                                                                                                                                   | Typescript, React, CSS, Node.js, Sequelize, PostgreSQL, Jest, Cypress |
+| [Votewatch - A full stack phone application](https://github.com/tomallens/votewatch)                       | A two week, 6 member group project to develop a full stack, phone first application from concept to product. [Presentation](https://youtu.be/jNPUt79UpsA?t=134), [Video demonstration](https://www.youtube.com/watch?v=ygtw67MctDw) | React Native, Node.js, Express, PostgreSQL, Sequelize, Jest           |
+| [GrumbleBook - A Facebook clone](https://github.com/AUTOMCAS/grumbleBook)                                  | A two week, 6 member group project to develop a full stack social media web application. [Video demonstration](https://github.com/AUTOMCAS/grumbleBook/blob/main/planning/presentation/demo.mp4)                                    | React, Node.js, Express, MongoDB, Firebase, Jest, Cypress             |
+| [SlothsBnB - An AirBnB clone ](https://github.com/AUTOMCAS/slothsbnb)                                      | A one week, 4 member group project to develop a full stack web application that allows users to list spaces they have available and to hire spaces for the night.                                                                   | Ruby, Rspec, PostgreSQL, Sinatra, Heroku                              |
+| [Bank App tech test](https://github.com/AUTOMCAS/bank_tech_test)                                           | A small app allowing a user to deposit, withdraw and print a statement using the command line. This was a tech test to demonstrate clean code and TDD                                                                               | JavaScript, Jest                                                      |
+| [Gilded Rose tech test](https://github.com/AUTOMCAS/gilded_rose_tech_test)                                 | A fantasy shop keeping app. This tech test focuses on writing tests, refactoring existing code and extend it to be clean and adaptable.                                                                                             | JavaScript, Jest                                                      |
+| [Bowling Challenge](https://github.com/AUTOMCAS/bowling-challenge)                                         | A bowling scorecard which continuously calculates the score for each frame of the deceptively complex game of bowling.                                                                                                              | JavaScript, Jest                                                      |
 
 ## <a name="learning">Learning Journey</a>
 
@@ -39,28 +58,10 @@ A highly selective 16 week intensive software development bootcamp.
 - Debugging: Using error messages and logs/prints to gain visibility on issues.
 - Full stack: Developing projects with front and back ends using a range of appropriate technologies. Example MERN stack: [GrumbleBook - A Facebook clone](https://github.com/AUTOMCAS/grumbleBook)
 - Databases: Using PostgreSQL and MongoDB to manage databases using create, read, update and delete operations.
-- APIs: Using APIs like REST APIs to transfer data using functions like GET, POST and PATCH. The [Votewatch](https://github.com/tomallens/votewatch) project uses the external House of Commons API to obtain information on MPs
+- APIs: Using RESTful APIs to transfer data using functions like GET, POST and PATCH. The [Votewatch](https://github.com/tomallens/votewatch) project uses the external House of Commons API to obtain information on MPs
 - Wellbeing, productivity and empathy: Practised appropriate break taking and time management, alone and when part of a group or pair. Through my patience and integrity I endeavoured to create a feeling of safety in a learning environment where feedback can be freely given and received.
 - Agile workflow: Following Agile project development processes to build projects as part of a team. Utilising planning sessions, ticketing, standups, sprints, retros and iterative development.
 - Collaboration: Pairing daily over challenging material with people with a range of personalities and ways of working. Working closely with a team to develop projects with multiple features, technologies and short deadlines.
-
-## <a name="projects">Projects</a>
-
-### Project portfolio
-
-**[My Project portfolio](https://github.com/AUTOMCAS/portfolio)**
-
-### Project overview
-
-| Name                                                                                                       | Description                                                                                                                                                                                                                         | Technologies                                                          |
-| ---------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| [Sheddington - A membership management system](https://github.com/AUTOMCAS/sheddington-membership-manager) | Full-stack application to manage memberships for a local charity.                                                                                                                                                                   | Typescript, React, CSS, Node.js, Sequelize, PostgreSQL, Jest, Cypress |
-| [Votewatch - A full stack phone application](https://github.com/tomallens/votewatch)                       | A two week, 6 member group project to develop a full stack, phone first application from concept to product. [Presentation](https://youtu.be/jNPUt79UpsA?t=134), [Video demonstration](https://www.youtube.com/watch?v=ygtw67MctDw) | React Native, Node.js, Express, PostgreSQL, Sequelize, Jest           |
-| [GrumbleBook - A Facebook clone](https://github.com/AUTOMCAS/grumbleBook)                                  | A two week, 6 member group project to develop a full stack social media web application. [Video demonstration](https://github.com/AUTOMCAS/grumbleBook/blob/main/planning/presentation/demo.mp4)                                    | React, Node.js, Express, MongoDB, Firebase, Jest, Cypress             |
-| [SlothsBnB - An AirBnB clone ](https://github.com/AUTOMCAS/slothsbnb)                                      | A one week, 4 member group project to develop a full stack web application that allows users to list spaces they have available and to hire spaces for the night.                                                                   | Ruby, Rspec, PostgreSQL, Sinatra, Heroku                              |
-| [Bank App tech test](https://github.com/AUTOMCAS/bank_tech_test)                                           | A small app allowing a user to deposit, withdraw and print a statement using the command line. This was a tech test to demonstrate clean code and TDD                                                                               | JavaScript, Jest                                                      |
-| [Gilded Rose tech test](https://github.com/AUTOMCAS/gilded_rose_tech_test)                                 | A fantasy shop keeping app. This tech test focuses on writing tests, refactoring existing code and extend it to be clean and adaptable.                                                                                             | JavaScript, Jest                                                      |
-| [Bowling Challenge](https://github.com/AUTOMCAS/bowling-challenge)                                         | A bowling scorecard which continuously calculates the score for each frame of the deceptively complex game of bowling.                                                                                                              | JavaScript, Jest                                                      |
 
 ## <a name="skills">Skills and Knowledge</a>
 
@@ -115,12 +116,12 @@ In contrast to being absorbed by the world behind a screen, I very much love the
 
 #### Senior Engineering Technician, The UCL Academy, London (2014 - 2022)
 
-- Collaborated with staff to develop a fantastic Engineering curriculum for students aged 11-18. Each year saw many graduates secure places in top Russell Group universities.
-- Planned and supervised a £100,000 refurbishment of the Engineering department, liaising with senior staff, external specialists and contractors.
-- Mentored and trained junior technicians to uphold the department's high standards.
+- Collaborated with staff to develop a fantastic Engineering curriculum for a diverse group of students aged 11-18. Each year saw many graduates secure places in top Russell Group universities.
 - Taught staff and students practical and theoretical Engineering skills.
 - Maintained a safe work environment with high wellbeing and health and safety standards.
+- Mentored and trained junior technicians to uphold the department's high standards
 - Planned and developed projects and exercises with tight deadlines and specifications.
+- Planned and supervised a £100,000 refurbishment of the Engineering department.
 
 #### Intern, Bamboo Bicycle Club, London (2014 - 2015)
 
@@ -147,4 +148,3 @@ In contrast to being absorbed by the world behind a screen, I very much love the
 #### Product Design BSc, First Class (2009-2012)
 
 Kingston University, UK.
-Projects and modules including Research, Design, Model making, CAD, FEA, CAM, Technical drawing, Electronics, Design for manufacture.
