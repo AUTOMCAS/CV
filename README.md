@@ -2,7 +2,8 @@
 
 [Projects](#projects) | [Learning Journey](#learning) | [Makers Academy experience](#makers) | [Skills](#skills) | [Hobbies with benefits](#hobbies) | [Experience](#experience) | [Education](#education)
 
-I am a Junior Software Developer based in London. I enjoyed a career in Engineering Education for 7 years before learning to become a software developer at [Makers Academy](https://makers.tech/). I have always lived to discover, to learn, to overcome, to build and to solve problems. I found the same satisfaction with software development but with the extra advantages that its digital nature enables. Rapid access to information, tools and solutions. An environment made for iteration, to be able to test, experiment, and rapidly improve a project.
+I am a full-stack software engineer with experience gained from the well renowned [Makers Academy](https://makers.tech/) bootcamp, freelance and personal projects. Coming from a 7 year career in engineering education, I found great joy in applying knowledge to overcome problems, collaborating to develop meaningful projects and engaging with a diverse range of people. I have discovered the same satisfaction in software engineering with the added benefits that its digital nature enables and found my combined skills and experiences incredibly valuable.
+
 
 I love to:
 
@@ -52,17 +53,14 @@ I recorded my my learning journey through Makers Academy on my way to becoming a
 August to December 2022.  
 A highly selective 16 week intensive software development bootcamp.
 
-- Learning how to better learn: developed and refined learning strategies using books, repetition and reflection. I recorded this in my learning journey [here](https://github.com/AUTOMCAS/learning_journey).
+- Front-end: Combining experience with front-end technologies with existing design expertise to produce user-friendly interfaces for non-technical users.
+- Back-end: Developed projects using purpose built and external RESTful APIs, frequently including SQL based relational databases with both ORM and pure SQL.
+- Programming principles: Developed projects with clean code following OOP principles and various design patterns.
+- TDD: Building projects using a red, green, refactor test driven development process. Ensuring good code coverage and behaviour first unit and integration tests.
 - Adaptability: Learning new Languages, ways of working and technologies in short periods of time.
-- Clean code: Learning about and applying SOLID and OOP principles to develop projects with clean and easily adaptable code. Example: [Bank App tech test](https://github.com/AUTOMCAS/bank_tech_test)
-- TDD: Building projects using a red, green, refactor test driven process. Ensuring good code coverage and behaviour first unit and integration tests.
-- Debugging: Using error messages and logs/prints to gain visibility on issues.
-- Full stack: Developing projects with front and back ends using a range of appropriate technologies. Example MERN stack: [GrumbleBook - A Facebook clone](https://github.com/AUTOMCAS/grumbleBook)
-- Databases: Using PostgreSQL and MongoDB to manage databases using create, read, update and delete operations.
-- APIs: Using RESTful APIs to transfer data using functions like GET, POST and PATCH. The [Votewatch](https://github.com/tomallens/votewatch) project uses the external House of Commons API to obtain information on MPs
-- Wellbeing, productivity and empathy: Practised appropriate break taking and time management, alone and when part of a group or pair. Through my patience and integrity I endeavoured to create a feeling of safety in a learning environment where feedback can be freely given and received.
-- Agile workflow: Following Agile project development processes to build projects as part of a team. Utilising planning sessions, ticketing, standups, sprints, retros and iterative development.
-- Collaboration: Pairing daily over challenging material with people with a range of personalities and ways of working. Working closely with a team to develop projects with multiple features, technologies and short deadlines.
+- Agile: Followed Agile methodologies to iteratively build projects as part of a team. Utilising planning sessions, ticketing, standups, sprints, retros to continuously feedback on and improve development.
+- Collaboration: Paired daily over challenging material with a diverse range of people. Created safe learning environments where feedback was freely exchanged and that prioritised wellbeing and shared learning. 
+- Learning how to better learn: Developed and refined learning strategies, recorded in my learning journey blog [here](https://github.com/AUTOMCAS/learning_journey).
 
 ## <a name="skills">Skills and Knowledge</a>
 
