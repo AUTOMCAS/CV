@@ -5,14 +5,6 @@
 I am a full-stack software engineer with experience gained from the well renowned [Makers Academy](https://makers.tech/) bootcamp, freelance and personal projects. Coming from a 7 year career in engineering education, I found great joy in applying knowledge to overcome problems, collaborating to develop meaningful projects and engaging with a diverse range of people. I have discovered the same satisfaction in software engineering with the added benefits that its digital nature enables and found my combined skills and experiences incredibly valuable.
 
 
-I love to:
-
-- Discover why and how something works.
-- Learn how to more effectively learn.
-- Apply skills and knowledge to problem solve.
-- Help others learn.
-- Code with care.
-
 ## <a name="projects">Projects</a>
 
 ### [My Project portfolio](https://github.com/AUTOMCAS/portfolio)
@@ -24,13 +16,14 @@ Further detail including key challenges, screenshots and videos.
 | Name                                                                                                       | Description                                                                                                                                                                                                                         | Technologies                                                          |
 | ---------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
 | [Sheddington - A membership management system](https://github.com/AUTOMCAS/sheddington-membership-manager) | Full-stack application to manage memberships for a local charity.                                                                                                                                                                   | Typescript, React, CSS, Node.js, Sequelize, PostgreSQL, Jest, Cypress |
-| [Dad jokes](https://github.com/AUTOMCAS/dadjokes)                                                          | A simple project to use an external API to display a random joke on the screen every button click. [Publushed site](https://automcas.github.io/dadjokes/)                                                                           | Typescript, React, CSS, Cypress                                       |
-| [Votewatch - A full stack phone application](https://github.com/tomallens/votewatch)                       | A two week, 6 member group project to develop a full stack, phone first application from concept to product. [Presentation](https://youtu.be/jNPUt79UpsA?t=134), [Video demonstration](https://www.youtube.com/watch?v=ygtw67MctDw) | React Native, Node.js, Express, PostgreSQL, Sequelize, Jest           |
-| [GrumbleBook - A Facebook clone](https://github.com/AUTOMCAS/grumbleBook)                                  | A two week, 6 member group project to develop a full stack social media web application. [Video demonstration](https://github.com/AUTOMCAS/grumbleBook/blob/main/planning/presentation/demo.mp4)                                    | React, Node.js, Express, MongoDB, Firebase, Jest, Cypress             |
-| [SlothsBnB - An AirBnB clone ](https://github.com/AUTOMCAS/slothsbnb)                                      | A one week, 4 member group project to develop a full stack web application that allows users to list spaces they have available and to hire spaces for the night.                                                                   | Ruby, Rspec, PostgreSQL, Sinatra, Heroku                              |
+| [Stress Bucket API](https://github.com/AUTOMCAS/stress-bucket-api) | Back-end API with relational database for a planned full-stack application. Helps understand stress and wellbeing using the stress bucket visualisation metaphor. | Spring boot, Java, PostgreSQL, JUnit |
+| [Dad jokes](https://github.com/AUTOMCAS/dadjokes)                                                          | A simple project to use an external API to display a random joke on the screen every button click. [Published site](https://automcas.github.io/dadjokes/)                                                                           | Typescript, React, CSS, Cypress                                       |
+| [Votewatch - A full-stack phone application](https://github.com/tomallens/votewatch)                       | A two week, 6 member collaborative project to develop a full-stack, phone first application from concept to product. [Presentation](https://youtu.be/jNPUt79UpsA?t=134), [Video demonstration](https://www.youtube.com/watch?v=ygtw67MctDw) | React Native, Node.js, Express, PostgreSQL, Sequelize, Jest           |
+| [GrumbleBook - A social media application](https://github.com/AUTOMCAS/grumbleBook)                                  | A two week, 6 member collaborative project to develop a full-stack social media web application. [Video demonstration](https://github.com/AUTOMCAS/grumbleBook/blob/main/planning/presentation/demo.mp4)                                    | React, Node.js, Express, MongoDB, Firebase, Jest, Cypress             |
+| [SlothsBnB - An AirBnB clone ](https://github.com/AUTOMCAS/slothsbnb)                                      | A one week, 4 member collaborative project to develop a full-stack web application that allows users to list spaces they have available and to hire spaces for the night.                                                                   | Ruby, Rspec, PostgreSQL, Sinatra, Heroku                              |
 | [Bank App tech test](https://github.com/AUTOMCAS/bank_tech_test)                                           | A small app allowing a user to deposit, withdraw and print a statement using the command line. This was a tech test to demonstrate clean code and TDD                                                                               | JavaScript, Jest                                                      |
-| [Gilded Rose tech test](https://github.com/AUTOMCAS/gilded_rose_tech_test)                                 | A fantasy shop keeping app. This tech test focuses on writing tests, refactoring existing code and extend it to be clean and adaptable.                                                                                             | JavaScript, Jest                                                      |
-| [Bowling Challenge](https://github.com/AUTOMCAS/bowling-challenge)                                         | A bowling scorecard which continuously calculates the score for each frame of the deceptively complex game of bowling.                                                                                                              | JavaScript, Jest                                                      |
+| [Gilded Rose tech test](https://github.com/AUTOMCAS/gilded_rose_tech_test)                                 | A fantasy shop keeping app. This tech test focuses on writing tests, refactoring existing code and extending it to be clean and adaptable.                                                                                             | JavaScript, Jest                                                      |
+
 
 ## <a name="learning">Learning Journey</a>
 
@@ -44,9 +37,7 @@ I recorded my my learning journey through Makers Academy on my way to becoming a
 - Diagrams.
 - Having good routines.
 
-<center>Diagram exploring Asynchronicity in JavaScript</center>
-
-![diagram](https://github.com/AUTOMCAS/learning_journey/blob/main/diagrams/javascript/eventloop-js.png?raw=true)
+[Diagram example exploring Asynchronicity in JavaScript](https://github.com/AUTOMCAS/learning_journey/blob/main/diagrams/javascript/eventloop-js.png?raw=true)
 
 ## <a name="makers">Makers Academy experience</a>
 
@@ -66,23 +57,24 @@ A highly selective 16 week intensive software development bootcamp.
 
 **Dedicated to learning**
 
-- I think learning and self development is one of the most important things in life. I have always enjoyed finding out about things and how they work and applying this practically.
-- I enjoy sharing my knowledge and strategies with others. I get great satisfaction from helping others learn new things.
+- I am passionate about learning and I enjoy approaching new challenges as opportunities for self development.
+- I have always enjoyed finding out about things and how they work and applying this to creatively solve problems.
+- I enjoy sharing my knowledge and strategies with others.
 - I recorded some of my experiences in my Makers learning journey [here](https://github.com/AUTOMCAS/learning_journey).
 
 **Plays well with others**
 
-- I have always enjoyed working with curious, intelligent and knowledgeable people to solve problems.
+- I enjoy working with curious, intelligent and knowledgeable people to solve problems.
 - Within a team I am equally happy working independently on a specific task or working closely with others to solve larger issues.
 - In my previous role and during group projects I find I often naturally fall into a position of leadership, planning and decision making.
-- As a senior Engineering technician I worked closely with a number of junior technicians, students and staff with a wide range of ages, backgrounds and abilities.
+- As a senior Engineering technician I worked closely with a number of junior technicians, students and staff with a diverse range of ages, backgrounds and abilities.
 - During group projects at Makers Academy I thoroughly enjoyed learning about and employing Agile methodologies. I found the iterative cycle of planning, implementation and reflection close to principles employed in engineering design and hugely beneficial to project development and enjoyment.
 
 **Management and organisation**
 
 - I value good planning, organisation and structure.
-- I have led the design and planning of small and large projects, the largest being the redesign of an entire engineering department of 3 workshops, a computing suite and 3 support rooms.
-- Within a team or when working alone I enjoy creating diagrams and other supporting documents to help both in planning and as a communication aid. Planning diagrams: [Bowling challenge](https://raw.githubusercontent.com/AUTOMCAS/bowling-challenge/main/bowling-js-diagram.png), [Bank tech test](https://raw.githubusercontent.com/AUTOMCAS/bank_tech_test/main/diagram.png)
+- I have led the design and planning of small and large projects, the largest being the £100k redesign of an entire engineering department of 3 workshops, a computing suite and 3 support rooms.
+- Within a team or when working alone I enjoy creating diagrams and other supporting documents to help both in planning and as a communication aid. Planning diagrams: [Bowling challenge](https://raw.githubusercontent.com/AUTOMCAS/bowling-challenge/main/bowling-js-diagram.png).
 - The TDD process and Object Oriented Programming fits right into my working ethos of systematic, clean and clear way of working through projects.
 
 **Problem solving and attention to detail**
@@ -121,26 +113,6 @@ In contrast to being absorbed by the world behind a screen, I very much love the
 - Mentored and trained junior technicians to uphold the department's high standards
 - Planned and developed projects and exercises with tight deadlines and specifications.
 - Planned and supervised a £100,000 refurbishment of the Engineering department.
-
-#### Intern, Bamboo Bicycle Club, London (2014 - 2015)
-
-- Developed new ideas and products and improving existing designs.
-- Produced and amended CAD models and drawings.
-- Produced instruction manuals and designing product packaging.
-
-#### Projects intern, London Sustainability Exchange, London (2013)
-
-- Graphical work such as producing logos, flyers and banners for the organisation.
-- Conducted research and aiding with idea generation for projects.
-
-#### Product design and development, Design and Technology Association, London (2012)
-
-- Co-wrote educational materials for primary aged children, supporting development of practical skills in design and technology.
-- Published in design and technology association’s magazine for Primary school teachers.
-
-#### Conservation volunteering, The Conservation Volunteers, London (2011 - 2013)
-
-- Included Biodiversity surveying and woodland maintenance with Kingston University and The Conservation Volunteers (formerly BCTV)
 
 ## <a name="education">Education</a>
 
