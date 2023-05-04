@@ -8,8 +8,9 @@ I love to:
 
 - Discover why and how something works.
 - Learn how to more effectively learn.
+- Share knowledge and help others learn.
+- Plan, build, reflect and iterate to effectively develop projects as part of a team.
 - Apply skills and knowledge to problem solve.
-- Help others learn.
 - Code with care.
 
 ## <a name="projects">Projects</a>
@@ -23,7 +24,7 @@ Further detail including key challenges, screenshots and videos.
 | Name                                                                                                       | Description                                                                                                                                                                                                                         | Technologies                                                          |
 | ---------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
 | [Sheddington - A membership management system](https://github.com/AUTOMCAS/sheddington-membership-manager) | Full-stack application to manage memberships for a local charity.                                                                                                                                                                   | Typescript, React, CSS, Node.js, Sequelize, PostgreSQL, Jest, Cypress |
-| [Dad jokes](https://github.com/AUTOMCAS/dadjokes)                                                          | A simple project to use an external API to display a random joke on the screen every button click. [Publushed site](https://automcas.github.io/dadjokes/)                                                                           | Typescript, React, CSS, Cypress                                       |
+| [Dad jokes](https://github.com/AUTOMCAS/dadjokes)                                                          | A simple project to use an external API to display a random joke on the screen every button click. [Published site](https://automcas.github.io/dadjokes/)                                                                           | Typescript, React, CSS, Cypress                                       |
 | [Votewatch - A full stack phone application](https://github.com/tomallens/votewatch)                       | A two week, 6 member group project to develop a full stack, phone first application from concept to product. [Presentation](https://youtu.be/jNPUt79UpsA?t=134), [Video demonstration](https://www.youtube.com/watch?v=ygtw67MctDw) | React Native, Node.js, Express, PostgreSQL, Sequelize, Jest           |
 | [GrumbleBook - A Facebook clone](https://github.com/AUTOMCAS/grumbleBook)                                  | A two week, 6 member group project to develop a full stack social media web application. [Video demonstration](https://github.com/AUTOMCAS/grumbleBook/blob/main/planning/presentation/demo.mp4)                                    | React, Node.js, Express, MongoDB, Firebase, Jest, Cypress             |
 | [SlothsBnB - An AirBnB clone ](https://github.com/AUTOMCAS/slothsbnb)                                      | A one week, 4 member group project to develop a full stack web application that allows users to list spaces they have available and to hire spaces for the night.                                                                   | Ruby, Rspec, PostgreSQL, Sinatra, Heroku                              |
@@ -52,17 +53,14 @@ I recorded my my learning journey through Makers Academy on my way to becoming a
 August to December 2022.  
 A highly selective 16 week intensive software development bootcamp.
 
-- Learning how to better learn: developed and refined learning strategies using books, repetition and reflection. I recorded this in my learning journey [here](https://github.com/AUTOMCAS/learning_journey).
-- Adaptability: Learning new Languages, ways of working and technologies in short periods of time.
-- Clean code: Learning about and applying SOLID and OOP principles to develop projects with clean and easily adaptable code. Example: [Bank App tech test](https://github.com/AUTOMCAS/bank_tech_test)
-- TDD: Building projects using a red, green, refactor test driven process. Ensuring good code coverage and behaviour first unit and integration tests.
-- Debugging: Using error messages and logs/prints to gain visibility on issues.
-- Full stack: Developing projects with front and back ends using a range of appropriate technologies. Example MERN stack: [GrumbleBook - A Facebook clone](https://github.com/AUTOMCAS/grumbleBook)
-- Databases: Using PostgreSQL and MongoDB to manage databases using create, read, update and delete operations.
-- APIs: Using RESTful APIs to transfer data using functions like GET, POST and PATCH. The [Votewatch](https://github.com/tomallens/votewatch) project uses the external House of Commons API to obtain information on MPs
-- Wellbeing, productivity and empathy: Practised appropriate break taking and time management, alone and when part of a group or pair. Through my patience and integrity I endeavoured to create a feeling of safety in a learning environment where feedback can be freely given and received.
-- Agile workflow: Following Agile project development processes to build projects as part of a team. Utilising planning sessions, ticketing, standups, sprints, retros and iterative development.
-- Collaboration: Pairing daily over challenging material with people with a range of personalities and ways of working. Working closely with a team to develop projects with multiple features, technologies and short deadlines.
+- **Self development**: Developed and refined learning strategies, recorded in my learning journey [here](https://github.com/AUTOMCAS/learning_journey).
+- **Collaboration**: Paired daily over challenging material with a diverse range of people. Created safe learning environments where feedback and learning was freely exchanged. 
+- **Agile**: Followed Agile methodologies to iteratively build projects as part of a team. Using planning sessions, ticketing, stand ups and sprints to continuously feedback on and improve development.
+- **Frontend**: Combining experience with frontend technologies with existing design expertise to produce user-friendly interfaces for non-technical users. Example: [GrumbleBook - A Facebook clone](https://github.com/AUTOMCAS/grumbleBook).
+- **Backend**: Developed projects using purpose built and external RESTful APIs, frequently including SQL based relational databases with both ORM and pure SQL. Example: [Votewatch](https://github.com/tomallens/votewatch) which uses the external House of Commons API to obtain information on MPs.
+- **Programming principles**: Developed projects with clean code following OOP principles, various design patterns and TDD, using unit and integration testing.
+- **Version control**: Used Git to manage version control with consistent commits and branches.
+
 
 ## <a name="skills">Skills and Knowledge</a>
 
@@ -74,11 +72,11 @@ A highly selective 16 week intensive software development bootcamp.
 
 **Plays well with others**
 
-- I have always enjoyed working with curious, intelligent and knowledgeable people to solve problems.
+- I have always enjoyed working with curious and knowledgeable people to solve problems.
+- During collaborative projects at Makers Academy I thoroughly enjoyed learning about and employing Agile methodologies. I found the iterative cycle of planning, implementation and reflection close to principles employed in engineering design and hugely beneficial to project development and enjoyment.
 - Within a team I am equally happy working independently on a specific task or working closely with others to solve larger issues.
-- In my previous role and during group projects I find I often naturally fall into a position of leadership, planning and decision making.
 - As a senior Engineering technician I worked closely with a number of junior technicians, students and staff with a wide range of ages, backgrounds and abilities.
-- During group projects at Makers Academy I thoroughly enjoyed learning about and employing Agile methodologies. I found the iterative cycle of planning, implementation and reflection close to principles employed in engineering design and hugely beneficial to project development and enjoyment.
+- In my previous role and during group projects I find I often naturally fall into a position of leadership, planning and decision making.
 
 **Management and organisation**
 
@@ -109,10 +107,9 @@ In contrast to being absorbed by the world behind a screen, I very much love the
 
 ## <a name="experience">Experience</a>
 
-#### Makers Academy (August to December 2022)
+#### Makers Academy bootcamp (August to December 2022)
 
 - [My Makers Academy experience key points](#makers).
-- Highly selective 16 week intensive software development bootcamp.
 - Learning how to become a software developer and effective team member through workshops, exercises, projects and group work.
 
 #### Senior Engineering Technician, The UCL Academy, London (2014 - 2022)
